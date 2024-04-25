@@ -1,8 +1,8 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/kRQbRAJ4-Fs" target="_blank">
+    <!-- <a href="https://youtu.be/kRQbRAJ4-Fs" target="_blank">
       <img src="https://i.postimg.cc/37PnQw8n/Image-from.png" alt="Project Banner">
-    </a>
+    </a> -->
   <br />
 
   <div>
@@ -14,9 +14,9 @@
 
   <h3 align="center">Iphone 15 Website</h3>
 
-   <div align="center">
+   <!-- <div align="center">
      Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+    </div> -->
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -57,20 +57,13 @@ and many more, including code architecture and reusability
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
-**Dependencies**
-
-```bash
-git clone https://github.com/JavaScript-Mastery-Pro/iphone-doc.git
-cd iphone-doc
-```
-
 **Running the Project**
 
 ```bash
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+Open [http://localhost:5173](http://localhost:5173) in browser
 
 ## <a name="snippets">🕸️ Snippets</a>
 
@@ -735,11 +728,10 @@ canvas {
 
 ## <a name="links">🔗 Links</a>
 
-Public Assets used in the project can be found [here](https://drive.google.com/file/d/1syHiNxSIGXVApaIozdrLXM2x5dPhvaJL/view?usp=sharing)
+<!-- Public Assets used in the project can be found [here](https://drive.google.com/file/d/1syHiNxSIGXVApaIozdrLXM2x5dPhvaJL/view?usp=sharing) -->
 
 ## <a name="more">🚀 More</a>
 
-<br />
 <br />
 
 **Project Deployed on Vercel**
