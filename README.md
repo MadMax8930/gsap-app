@@ -12,12 +12,14 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">Iphone 15 Website</h3>
+  <h3 align="center">Iphone 15 Website with Vite</h3>
 
    <!-- <div align="center">
      Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
     </div> -->
 </div>
+
+// Code Spell Checker x2 off
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -55,7 +57,14 @@ This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS.
 
 and many more, including code architecture and reusability 
 
+// Gsap demo: https://github.com/JavaScript-Mastery-Pro/gsap-crash-course
+
 ## <a name="quick-start">🤸 Quick Start</a>
+
+**Dependencies**
+```bash&
+npm i gsap @gsap/react
+```
 
 **Running the Project**
 
