@@ -62,8 +62,8 @@ and many more, including code architecture and reusability
 ## <a name="quick-start">🤸 Quick Start</a>
 
 **Dependencies**
-```bash&
-npm i gsap @gsap/react
+```bash
+npm i gsap @gsap/react three @react-three/drei @react-three/fiber
 ```
 
 **Running the Project**
