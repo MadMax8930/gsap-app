@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">3D iPhone Website (ThreeJS/GSAP)</h1>
+  <h2 align="center">3D iPhone Website (ThreeJS/GSAP)</h2>
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
@@ -28,6 +28,12 @@ Apple's iPhone website made with Vite using React.js and TailwindCSS. It highlig
 
 ```bash
 npm i gsap @gsap/react three @react-three/drei @react-three/fiber
+```
+
+**Sentry Monitoring**
+```bash
+npm i --save @sentry/react
+npx @sentry/wizard@latest -i sourcemaps
 ```
 
 **Running the Project**
